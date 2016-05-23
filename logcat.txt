@@ -1,0 +1,9 @@
+05-23 10:48:01.436 489-489/? E/InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+05-23 10:48:01.453 489-861/? E/WifiStateMachine:  Fail to set up pno, want false now false
+05-23 10:48:06.470 489-489/? E/InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+05-23 10:48:06.481 489-489/? E/InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+05-23 10:48:06.555 489-861/? E/WifiStateMachine:  Fail to set up pno, want false now false
+05-23 10:48:19.144 489-489/? E/InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+05-23 10:48:19.177 489-861/? E/WifiStateMachine:  Fail to set up pno, want false now false
+05-23 10:48:24.158 489-489/? E/InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+05-23 10:48:24.167 489-489/? E/InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
